@@ -7,3 +7,7 @@ env/Lib/site-packages/click/__pycache__/_compat.cpython-310.pyc
 .idea
 app/__pycache__/__init__.cpython-310.pyc
 app/__pycache__/routes.cpython-310.pyc
+__pycache__
+/__pycache__
+.__pycache__
+./__pycache__
